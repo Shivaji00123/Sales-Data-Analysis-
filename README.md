@@ -12,7 +12,7 @@ The dataset for this project was obtained from a publicly available online sourc
 ### Tools Used
 Microsoft Excel, SQL Server, Power BI.
 
-## Dataset used 
+## Dataset Used 
 - <a href="https://github.com/Shivaji00123/Data-Analysis-Dashboard/blob/main/Electronic%20Sales%20data%20(2).xlsx">Dataset</a>
 
 ## Questions (KPIs)
@@ -46,7 +46,7 @@ Downloaded the dataset in CSV/Excel format.
 ## Dashboard 
 <img width="737" height="413" alt="Dashboard" src="https://github.com/user-attachments/assets/6f4f13de-c15a-46ed-ad26-b4fbec80f42f" />
 
-## Project insight
+## Project Insight
 The 49.92% sale from online channels while the 50.08% sales came from offline Channels.
 Generates overall Profit over all categories is 28.34%.
 The West region has recorded the highest sales compared to all other regions.
