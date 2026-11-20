@@ -23,7 +23,6 @@ Microsoft Excel, SQL Server, Power BI.
 - Which sales channel performs better: Online or Offline?
 - Which month has the highest sales?
 - Which month has the lowest sales?
-- Who are the top 10 customers based on revenue?
 - Which product category contributes the most revenue?
 - What is the total revenue generated?
 - What is the total sales quantity?
